@@ -1,0 +1,89 @@
+{
+  "localBusiness": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Metal1000 Serralheria",
+    "description": "Serralheria na Mooca com atendimento 24 horas: socorro de portas e portões, grades, portas de aço, escadas, coberturas e projetos sob medida. Nota 5,0 com 154 avaliações no Google.",
+    "telephone": "+5511913312573",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. Alcântara Machado, 1499",
+      "addressLocality": "São Paulo",
+      "addressRegion": "SP",
+      "postalCode": "03102-002",
+      "addressCountry": "BR"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 5,
+      "reviewCount": 154,
+      "bestRating": 5,
+      "worstRating": 1
+    },
+    "sameAs": [
+      "https://www.instagram.com/metal_1000serralheria/"
+    ]
+  },
+  "faq": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Vocês atendem de madrugada e no domingo?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sim. O atendimento é 24 horas, todos os dias, inclusive para socorro de portas de loja e portões travados."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quanto tempo leva uma grade ou um portão?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Depende do serviço. Nas avaliações, clientes contam grades instaladas dois dias depois do pedido; o prazo exato vem no orçamento."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Fazem porta de aço e porta de enrolar para comércio?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sim: fabricação, instalação, troca de motor, cortina e cabos de aço."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Fazem tela de proteção para pets?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sim, telas metálicas que abrem, com trava, inclusive para janelas basculantes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Como peço um orçamento?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Mande fotos e medidas pelo WhatsApp ou pelo formulário desta página."
+        }
+      }
+    ]
+  }
+}
